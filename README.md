@@ -7,15 +7,23 @@
 
 #### 综述型论文
 - [Arxiv-2021] A survey on Visual Transformer [`论文`](https://arxiv.org/pdf/2012.12556.pdf)
+- []
+
 #### 重要论文
-- [Arxiv-2021-Microsoft] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation)
+- [Arxiv-2018-Google] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`论文`](https://arxiv.org/pdf/1810.04805.pdf) [`代码`](https://github.com/google-research/bert)
+- GBT-3
+- [Arxiv-2020-Facebook] End-to-End Object Detection with Transformers [`论文`](https://arxiv.org/pdf/2005.12872.pdf) [`代码`](https://github.com/facebookresearch/detr)
+- IGBT
+- VIT
+- IPT
+- [Arxiv-2021-Microsoft] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation) 
 
 #### 数据集
 
 #### reference
 https://github.com/sannykim/transformers
 
-## 其他论文
+## 其他资源
 #### Follow-Up Papers
 Since the original paper was published, there has been a massive wave of papers building on the Transformer. Most notably, BERT, GPT-2, XLNet and Reformer. 
 - [Linformer](https://arxiv.org/abs/2006.04768)
