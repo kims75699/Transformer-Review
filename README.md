@@ -9,16 +9,16 @@
 - [2021-Arxiv] A survey on Visual Transformer [`论文`](https://arxiv.org/pdf/2012.12556.pdf)
 
 #### 重要论文
-- [2018-Arxiv-Google] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`论文`](https://arxiv.org/pdf/1810.04805.pdf) [`代码`](https://github.com/google-research/bert)
+- [2018-Arxiv-Google] [NLP] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`论文`](https://arxiv.org/pdf/1810.04805.pdf) [`代码`](https://github.com/google-research/bert)
 - [2020-Arxiv-OpenAI] Language Models are Few-Shot Learners (GPT-3) [`论文`](https://arxiv.org/pdf/2005.14165.pdf) [`代码`](https://github.com/openai/gpt-3)
-- [2020-ECCV-Facebook] End-to-End Object Detection with Transformers(DERT) [`论文`](https://arxiv.org/pdf/2005.12872.pdf) [`代码`](https://github.com/facebookresearch/detr)
-- [2020-ICML-OpenAI] Generative Pretraining from Pixels(IGPT) [`论文`](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [`代码`](https://github.com/openai/image-gpt)
-- [2021-ICLR-Google] An Image Is Worth 16X16 Words: Transformers for Image Recognition At Scale(ViT) [`论文`](https://arxiv.org/pdf/2010.11929.pdf) [`代码`](https://github.com/google-research/vision_transformer)
-- [2020-Arxiv] Pre-Trained Image Processing Transformer(IPT) [`论文`](https://arxiv.org/pdf/2012.00364.pdf)
-- [2020-Arxiv-Facebook] Training data-efficient image transformers & distillation through attention(DeiT) [`论文`](https://arxiv.org/pdf/2012.12877.pdf)
-- [2021-CVPR-Fudan] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers(SETR) [`论文`](https://arxiv.org/pdf/2012.15840.pdf) [`代码`](https://github.com/fudan-zvg/SETR)
-- [2021-Arxiv-Nvidia] UNETR: Transformers for 3D Medical Image Segmentation [`论文`](https://arxiv.org/pdf/2103.10504.pdf) [`代码`](https://github.com/jeya-maria-jose/Medical-Transformer)
-- [2021-Arxiv-Microsoft] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation) 
+- [2020-ECCV-Facebook] [目标检测] End-to-End Object Detection with Transformers(DERT) [`论文`](https://arxiv.org/pdf/2005.12872.pdf) [`代码`](https://github.com/facebookresearch/detr)
+- [2020-ICML-OpenAI] [图像分类] Generative Pretraining from Pixels(IGPT) [`论文`](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [`代码`](https://github.com/openai/image-gpt)
+- [2021-ICLR-Google] [图像分类] An Image Is Worth 16X16 Words: Transformers for Image Recognition At Scale(ViT) [`论文`](https://arxiv.org/pdf/2010.11929.pdf) [`代码`](https://github.com/google-research/vision_transformer)
+- [2020-Arxiv] [数据增强] Pre-Trained Image Processing Transformer(IPT) [`论文`](https://arxiv.org/pdf/2012.00364.pdf)
+- [2020-Arxiv-Facebook] [图像分类] Training data-efficient image transformers & distillation through attention(DeiT) [`论文`](https://arxiv.org/pdf/2012.12877.pdf)
+- [2021-CVPR-Fudan] [语义分割] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers(SETR) [`论文`](https://arxiv.org/pdf/2012.15840.pdf) [`代码`](https://github.com/fudan-zvg/SETR)
+- [2021-Arxiv-Nvidia] [医疗语义分割] UNETR: Transformers for 3D Medical Image Segmentation [`论文`](https://arxiv.org/pdf/2103.10504.pdf) [`代码`](https://github.com/jeya-maria-jose/Medical-Transformer)
+- [2021-Arxiv-Microsoft] [语义分割] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation) 
 
 #### 数据集
 - [目标检测，语义理解] ADE20K [`下载`](https://groups.csail.mit.edu/vision/datasets/ADE20K/)
