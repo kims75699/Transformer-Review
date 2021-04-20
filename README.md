@@ -6,7 +6,7 @@
 - [NIPS-2017-Google] Attention is all you need [`论文`](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
 #### 综述型论文
-
+- [Arxiv-2021] A survey on Visual Transformer [`论文`](https://arxiv.org/pdf/2012.12556.pdf)
 #### 重要论文
 - [Arxiv-2021-Microsoft] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation)
 
