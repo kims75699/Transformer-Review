@@ -3,11 +3,19 @@
 ## 1 论文和代码
 
 #### 源头论文
-- [NIPS-2017] Attention is all you need [`论文`](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [NIPS-2017-Google] Attention is all you need [`论文`](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
 #### 综述型论文
-- [] 
 
+#### 重要论文
+- [Arxiv-2021-Microsoft] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf)[`主代码`](https://github.com/microsoft/Swin-Transformer)[`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection)[`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation)
+
+#### 数据集
+
+#### reference
+https://github.com/sannykim/transformers
+
+## 其他论文
 #### Follow-Up Papers
 Since the original paper was published, there has been a massive wave of papers building on the Transformer. Most notably, BERT, GPT-2, XLNet and Reformer. 
 - [Linformer](https://arxiv.org/abs/2006.04768)
@@ -55,11 +63,5 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Microsoft Reading Group on Transformer XL](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
 - [Yannic Kilcher](https://www.youtube.com/watch?v=H5vpBCLo74U)
 - [NLP Breakfasts' Overview of XLNet](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
-
-#### 数据集
-
-#### reference
-https://github.com/sannykim/transformers
-
 
 更新时间：2021/04/20
