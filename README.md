@@ -21,7 +21,8 @@
 
 #### 数据集
 - [目标检测，语义理解] ADE20K [`下载`](https://groups.csail.mit.edu/vision/datasets/ADE20K/)
-
+- CIFAR-10 [`下载(python version)`](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
+- CIFAR-100 [`下载(python version)`](https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz)
 #### reference
 https://github.com/sannykim/transformers
 
