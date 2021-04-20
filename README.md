@@ -14,7 +14,7 @@
 - [2020-Arxiv-Facebook] End-to-End Object Detection with Transformers [`论文`](https://arxiv.org/pdf/2005.12872.pdf) [`代码`](https://github.com/facebookresearch/detr)
 - [2020-ICML] Generative Pretraining from Pixels [`论文`](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [`代码`](https://github.com/openai/image-gpt)
 - [2020-Arvix-Google] An Image Is Worth 16X16 Words: Transformers for Image Recognition At Scale [`论文`](https://arxiv.org/pdf/2010.11929.pdf) [`代码`](https://github.com/google-research/vision_transformer)
-- Pre-Trained Image Processing Transformer [`论文`](https://arxiv.org/pdf/2012.00364.pdf)
+- [2020-Arxiv]Pre-Trained Image Processing Transformer [`论文`](https://arxiv.org/pdf/2012.00364.pdf)
 - [2020-Arxiv-Facebook] Training data-efficient image transformers & distillation through attention [`论文`](https://arxiv.org/pdf/2012.12877.pdf)
 - [2021-CVPR-Fudan] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [`论文`](https://arxiv.org/pdf/2012.15840.pdf) [`代码`](https://github.com/fudan-zvg/SETR)
 - [2021-Arxiv-Microsoft] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation) 
