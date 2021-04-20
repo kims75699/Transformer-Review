@@ -13,10 +13,10 @@
 - [Arxiv-2018-Google] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`论文`](https://arxiv.org/pdf/1810.04805.pdf) [`代码`](https://github.com/google-research/bert)
 - GBT-3
 - [Arxiv-2020-Facebook] End-to-End Object Detection with Transformers [`论文`](https://arxiv.org/pdf/2005.12872.pdf) [`代码`](https://github.com/facebookresearch/detr)
-- IGBT
-- VIT
-- IPT
-- SETR
+- [ICML-2020] Generative Pretraining from Pixels [`论文`](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [`代码`](https://github.com/openai/image-gpt)
+- VIT[`论文`][`代码`]
+- IPT[`论文`][`代码`]
+- SETR[`论文`][`代码`]
 - [Arxiv-2021-Microsoft] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation) 
 
 #### 数据集
