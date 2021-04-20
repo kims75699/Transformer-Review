@@ -11,9 +11,9 @@
 #### 重要论文
 - [2018-Arxiv-Google] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`论文`](https://arxiv.org/pdf/1810.04805.pdf) [`代码`](https://github.com/google-research/bert)
 - [2020-Arxiv-OpenAI] Language Models are Few-Shot Learners (GPT-3) [`论文`](https://arxiv.org/pdf/2005.14165.pdf) [`代码`](https://github.com/openai/gpt-3)
-- [2020-Arxiv-Facebook] End-to-End Object Detection with Transformers(DERT) [`论文`](https://arxiv.org/pdf/2005.12872.pdf) [`代码`](https://github.com/facebookresearch/detr)
+- [2020-ECCV-Facebook] End-to-End Object Detection with Transformers(DERT) [`论文`](https://arxiv.org/pdf/2005.12872.pdf) [`代码`](https://github.com/facebookresearch/detr)
 - [2020-ICML-OpenAI] Generative Pretraining from Pixels(IGPT) [`论文`](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [`代码`](https://github.com/openai/image-gpt)
-- [2020-Arvix-Google] An Image Is Worth 16X16 Words: Transformers for Image Recognition At Scale(ViT) [`论文`](https://arxiv.org/pdf/2010.11929.pdf) [`代码`](https://github.com/google-research/vision_transformer)
+- [2021-ICLR-Google] An Image Is Worth 16X16 Words: Transformers for Image Recognition At Scale(ViT) [`论文`](https://arxiv.org/pdf/2010.11929.pdf) [`代码`](https://github.com/google-research/vision_transformer)
 - [2020-Arxiv] Pre-Trained Image Processing Transformer(IPT) [`论文`](https://arxiv.org/pdf/2012.00364.pdf)
 - [2020-Arxiv-Facebook] Training data-efficient image transformers & distillation through attention(DeiT) [`论文`](https://arxiv.org/pdf/2012.12877.pdf)
 - [2021-CVPR-Fudan] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers(SETR) [`论文`](https://arxiv.org/pdf/2012.15840.pdf) [`代码`](https://github.com/fudan-zvg/SETR)
