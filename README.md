@@ -1,18 +1,20 @@
 # Visual Transformer-Review
 
+## 0 导读
+
 初级理解：
-- 《3万字长文带你轻松入门视觉Transformer》：推荐仔细阅读，里面有些小笔误，但是问题不大
-- 《Transformer升级之路：Sinusoidal位置编码追根溯源》：关于位置编码的深入解析与推导
-- 《The Annotated Transformer》：从头开始实现 transformer
+- [`《3万字长文带你轻松入门视觉Transformer》`](https://zhuanlan.zhihu.com/p/308301901): 推荐仔细阅读，里面有些小笔误，但是问题不大
+- [`《Transformer升级之路：Sinusoidal位置编码追根溯源》`](https://zhuanlan.zhihu.com/p/359500899): 关于位置编码的深入解析与推导
+- [`《The Annotated Transformer》`](http://nlp.seas.harvard.edu/2018/04/03/attention.html): harvard 复现attention is all you need 代码
 
 高层次理解：
-- 《How Transformers work in deep learning and NLP: an intuitive introduction》：高层次理解
-- 《The Illustrated Transformer》：图解 transformer
-- 《The Transformer Family》：transformer 的技术摘要，最新发展的总结
+- [`《How Transformers work in deep learning and NLP: an intuitive introduction》`](https://theaisummer.com/transformer/): 高层次理解
+- [`《The Illustrated Transformer》`](http://jalammar.github.io/illustrated-transformer/): 图解 transformer
+- [`《The Transformer Family》`](https://link.csdn.net/?target=https%3A%2F%2Flilianweng.github.io%2Flil-log%2F2020%2F04%2F07%2Fthe-transformer-family.html): transformer 的技术摘要，最新发展的总结
 
 应用：
-- 《Transformers》：transformer 在不同领域的应用，GitHub 项目，star 高达 42k
-- 《搞懂视觉Transformer原理和代码，看这篇技术综述就够了！》：transformer 在不同领域的几个具体应用
+- [`《Transformers》`](https://github.com/huggingface/transformers)：transformer 在不同领域的应用，GitHub 项目，star 高达 42k
+- [`《搞懂视觉Transformer原理和代码，看这篇技术综述就够了！》`](https://mp.weixin.qq.com/s/HU1wXzPH6yZEbMPstES1CA)：transformer 在不同领域的几个具体应用
 
 
 ## 1 论文和代码
