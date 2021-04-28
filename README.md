@@ -10,7 +10,7 @@
 高层次理解：
 - [`《How Transformers work in deep learning and NLP: an intuitive introduction》`](https://theaisummer.com/transformer/): 高层次理解
 - [`《The Illustrated Transformer》`](http://jalammar.github.io/illustrated-transformer/): 图解 transformer
-- [`《The Transformer Family》`](https://link.csdn.net/?target=https%3A%2F%2Flilianweng.github.io%2Flil-log%2F2020%2F04%2F07%2Fthe-transformer-family.html): transformer 的技术摘要，最新发展的总结
+- [`《The Transformer Family》`](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html): transformer 的技术摘要，最新发展的总结
 
 应用：
 - [`《Transformers》`](https://github.com/huggingface/transformers)：transformer 在不同领域的应用，GitHub 项目，star 高达 42k
