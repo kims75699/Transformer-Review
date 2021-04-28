@@ -7,6 +7,7 @@
 
 #### 综述型论文
 - [2021-Arxiv] A survey on Visual Transformer [`论文`](https://arxiv.org/pdf/2012.12556.pdf)
+- [2021-Arxiv] Transformers in Vision: A Survey [`论文`](https://arxiv.org/pdf/2101.01169.pdf)
 
 #### 重要论文
 - [2018-NAACL-Google] [自然语言处理] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`论文`](https://arxiv.org/pdf/1810.04805.pdf) [`代码`](https://github.com/google-research/bert)
