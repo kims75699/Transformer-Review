@@ -1,5 +1,20 @@
 # Visual Transformer-Review
-知乎入门：https://zhuanlan.zhihu.com/p/308301901
+
+初级理解：
+- 《3万字长文带你轻松入门视觉Transformer》：推荐仔细阅读，里面有些小笔误，但是问题不大
+- 《Transformer升级之路：Sinusoidal位置编码追根溯源》：关于位置编码的深入解析与推导
+- 《The Annotated Transformer》：从头开始实现 transformer
+
+高层次理解：
+- 《How Transformers work in deep learning and NLP: an intuitive introduction》：高层次理解
+- 《The Illustrated Transformer》：图解 transformer
+- 《The Transformer Family》：transformer 的技术摘要，最新发展的总结
+
+应用：
+- 《Transformers》：transformer 在不同领域的应用，GitHub 项目，star 高达 42k
+- 《搞懂视觉Transformer原理和代码，看这篇技术综述就够了！》：transformer 在不同领域的几个具体应用
+
+
 ## 1 论文和代码
 
 #### 源头论文
