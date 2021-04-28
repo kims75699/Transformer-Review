@@ -14,7 +14,7 @@
 
 应用：
 - [`《Transformers》`](https://github.com/huggingface/transformers)：transformer 在不同领域的应用，GitHub 项目，star 高达 42k
-- [`《搞懂视觉Transformer原理和代码，看这篇技术综述就够了！》`](https://mp.weixin.qq.com/s/HU1wXzPH6yZEbMPstES1CA)：transformer 在不同领域的几个具体应用
+- 《搞懂视觉Transformer原理和代码，看这篇技术综述就够了！》[`part 1`](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA%3D%3D&chksm=ec1c9073db6b1965d69cdd29d40d51b0148121135e0e73030d099f23deb2ff58fa4558507ab8&idx=1&mid=2247531914&scene=21&sn=3b8d0b4d3821c64e9051a4d645467995#wechat_redirect) [`part 2`](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA%3D%3D&chksm=ec1ca0cbdb6b29dd154fc54e28689dd9b074183920e9d7e0b675d9f9eb7946b8e45b94ab28d3&idx=1&mid=2247535922&scene=21&sn=f4ea9fcee78ac604c03924e367844e85#wechat_redirect) [`part 3`](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA%3D%3D&chksm=ec1ccf34db6b4622badf7244b6ef6c8809b20a1c60faefb3937822f087f93d27ed019b45907c&idx=1&mid=2247541453&scene=21&sn=f9dfe3bcf5e85b413ce1543178681e1e#wechat_redirect) [`part 4`](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA%3D%3D&chksm=ec1cdb48db6b525efa3b087a3798934b6c9082741d41c3d5efe4c74b4e2b470ccaefec3eb787&idx=1&mid=2247546545&scene=21&sn=d9cc512b88c89b8a00482d13250cfd49#wechat_redirect) ：transformer 在不同领域的几个具体应用
 
 
 ## 1 论文和代码
