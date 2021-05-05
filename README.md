@@ -39,7 +39,7 @@
 - [2021-Arxiv-Microsoft] [语义分割] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation) 
 
 #### 其他论文
--- [2020-Arxiv]Efficient Attention: Attention with Linear Complexities [`论文`](https://arxiv.org/pdf/1812.01243.pdf) [`代码`](https://github.com/cmsflash/efficient-attention)
+- [2020-Arxiv]Efficient Attention: Attention with Linear Complexities [`论文`](https://arxiv.org/pdf/1812.01243.pdf) [`代码`](https://github.com/cmsflash/efficient-attention)
 
 #### 数据集
 - [目标检测，语义理解] ADE20K [`下载`](https://groups.csail.mit.edu/vision/datasets/ADE20K/)
