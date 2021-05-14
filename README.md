@@ -37,6 +37,8 @@
 - [2021-CVPR-Fudan] [语义分割] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers(SETR) [`论文`](https://arxiv.org/pdf/2012.15840.pdf) [`代码`](https://github.com/fudan-zvg/SETR)
 - [2021-Arxiv-Nvidia] [医疗语义分割] UNETR: Transformers for 3D Medical Image Segmentation [`论文`](https://arxiv.org/pdf/2103.10504.pdf) [`代码`](https://github.com/jeya-maria-jose/Medical-Transformer)
 - [2021-Arxiv-Microsoft] [语义分割] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation) 
+- [2021-CVPR-TUM] [医疗语义分割] Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [`论文`](https://arxiv.org/pdf/2105.05537.pdf) [`代码`](https://github.com/HuCaoFighting/Swin-Unet)
+- Medical Transformer: Gated Axial-Attention for Medical Image Segmentation
 
 #### 其他论文
 - [2020-Arxiv] Efficient Attention: Attention with Linear Complexities [`论文`](https://arxiv.org/pdf/1812.01243.pdf) [`代码`](https://github.com/cmsflash/efficient-attention)
