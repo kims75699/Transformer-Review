@@ -39,6 +39,8 @@
 - [2021-Arxiv-Microsoft] [语义分割] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [`论文`](https://arxiv.org/pdf/2103.14030.pdf) [`主代码`](https://github.com/microsoft/Swin-Transformer) [`目标检测代码`](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) [`语义分割代码`](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation) 
 - [2021-CVPR-TUM] [医疗语义分割] Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [`论文`](https://arxiv.org/pdf/2105.05537.pdf) [`代码`](https://github.com/HuCaoFighting/Swin-Unet)
 - Medical Transformer: Gated Axial-Attention for Medical Image Segmentation
+- [2021-Arxiv] TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [`论文`](https://arxiv.org/pdf/2102.04306.pdf) [`代码`](https://github.com/Beckschen/TransUNet)
+- Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [`论文`](https://arxiv.org/pdf/2102.10662.pdf) [`代码`](https://github.com/jeya-maria-jose/Medical-Transformer)
 
 #### 其他论文
 - [2020-Arxiv] Efficient Attention: Attention with Linear Complexities [`论文`](https://arxiv.org/pdf/1812.01243.pdf) [`代码`](https://github.com/cmsflash/efficient-attention)
@@ -104,4 +106,4 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Yannic Kilcher](https://www.youtube.com/watch?v=H5vpBCLo74U)
 - [NLP Breakfasts' Overview of XLNet](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
 
-更新时间：2021/05/05
+更新时间：2021/05/19
